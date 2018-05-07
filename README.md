@@ -3,7 +3,7 @@
 ### 巴比特电子书 
 http://book.8btc.com/e_book
 
-###白皮书
+### 白皮书
 
 - 工信部白皮书
 http://www.fullrich.com/Uploads/article/file/2016/1020/580866e374069.pdf
