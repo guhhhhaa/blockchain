@@ -1,7 +1,7 @@
 # blockchain
 
-### 巴比特电子书 
-http://book.8btc.com/e_book
+### 电子书 
+- 巴比特上的电子书 http://book.8btc.com/e_book
 
 ### 白皮书
 
