@@ -9,6 +9,6 @@
 * [【DeFi】DeFi\(s\)](defi/README.md)
   * [【DeFi】UniSwap](defi/uniswap.md)
   * [【DeFi】dYdX](defi/defi-dydx.md)
-  * [【DeFi】损益率分析：Uniswap会是做市商们的好生意吗？](defi/defi-sun-yi-lv-fen-xi-uniswap-hui-shi-zuo-shi-shang-men-de-hao-sheng-yi-ma.md)
+  * [【DeFi】Uniswap损益分析](defi/defi-sun-yi-lv-fen-xi-uniswap-hui-shi-zuo-shi-shang-men-de-hao-sheng-yi-ma.md)
   * [【DeFi】Compound & cDai](defi/compound-and-cdai.md)
 
