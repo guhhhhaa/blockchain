@@ -11,4 +11,5 @@
   * [【DeFi】dYdX](defi/defi-dydx.md)
   * [【DeFi】Uniswap损益分析](defi/defi-sun-yi-lv-fen-xi-uniswap-hui-shi-zuo-shi-shang-men-de-hao-sheng-yi-ma.md)
   * [【DeFi】Compound & cDai](defi/compound-and-cdai.md)
+* [【DeFi】DeFi套利](defidefi-tao-li.md)
 
