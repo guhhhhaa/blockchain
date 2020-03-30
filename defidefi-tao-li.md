@@ -16,8 +16,6 @@
 2. DeFi基础架构具有新功能，例如基于原子批处理的交易处理，有可能启用新的交易策略，而在传统金融市场中却没有类似的交易
 3. 对于套利者而言，收益率和跨DEX套利似乎都是短暂的机会，前者是因为Topo Finance等聚合器，而后者是因为它们对流动性和更广泛的以太坊产生负面影响而被DEX建设者彻底阻止
 
-广告[![](https://www.tbstat.com/wp/uploads/2020/02/LukkaTax-IAB-300x300.png)](https://diy.lukkatax.com/?referralCode=theblock)
-
 [Alex Obadia](https://twitter.com/ObadiaAlex)  领导[Cambrial Capital的](https://cambrial.com/)研究和平台工作，  [Cambrial Capital](https://cambrial.com/)是总部位于伦敦和柏林的加密[货币](https://cambrial.com/)基金。他还组织了伦敦DeFi峰会和伦敦零知识月度聚会。这纯粹是为了提供信息。这篇文章中的任何内容都不应被解释为投资建议。
 
 #### 介绍
