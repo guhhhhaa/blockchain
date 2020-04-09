@@ -8,6 +8,8 @@
 
 ## 其他：
 
+{% embed url="https://www.btxiaobai.com/VcQ7AvMRwi" %}
+
 {% embed url="https://app.zerion.io/" %}
 
 {% embed url="https://defizap.com/" %}
