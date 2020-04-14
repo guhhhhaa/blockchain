@@ -28,5 +28,7 @@
 
 {% embed url="https://unchainedpodcast.com/the-most-forkable-defi-protocols-on-ethereum/" %}
 
+{% embed url="https://strike.network/" %}
+
 
 
