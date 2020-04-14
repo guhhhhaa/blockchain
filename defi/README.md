@@ -22,5 +22,5 @@
 
 {% embed url="https://synthetix.exchange/" %}
 
-
+{% embed url="https://bzx.network/" %}
 
