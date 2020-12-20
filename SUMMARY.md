@@ -11,6 +11,8 @@
   * [【DeFi】dYdX](defi/defi-dydx.md)
   * [【DeFi】Uniswap损益分析](defi/defi-sun-yi-lv-fen-xi-uniswap-hui-shi-zuo-shi-shang-men-de-hao-sheng-yi-ma.md)
   * [【DeFi】Compound & cDai](defi/compound-and-cdai.md)
+  * [Aave与闪电贷](defi/aave-yu-shan-dian-dai.md)
+  * [mirror.finance挖矿套利](defi/mirror.finance-wa-kuang-tao-li.md)
 * [【DeFi】DeFi套利](defidefi-tao-li.md)
 * [了解DeFi中的风险：Uniswap](le-jie-defi-zhong-de-feng-xian-uniswap.md)
 
